@@ -1,3 +1,5 @@
-Title of the project is Bash-Make-Git-Github
-Total Number of lines of code in guessinggame.sh are
+# Bash-Make-Git-Github
+## Date
+Sat Mar  9 15:00:26 UTC 2019
+## Total Number of lines of code in guessinggame.sh
 23
