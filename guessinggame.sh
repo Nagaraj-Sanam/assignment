@@ -1,8 +1,8 @@
 # File guessinggame.sh
+echo "How many files are there in this directory:"
 function guess {
 while :
 do
-	echo "How many files are there in this directory:"
 	read response
 	num_of_files=$(ls | wc -l)
 	if [[ $response -eq $num_of_files ]]
